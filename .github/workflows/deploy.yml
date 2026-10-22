@@ -22,7 +22,9 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v7
-      - run: sudo apt-get update && sudo apt-get install -y pandoc
+      - uses: pandoc/actions/setup@v1
+        with:
+          version: '3.10'
       - run: make
       - run: mkdir -p _site && cp index.html CNAME _site/
       - uses: actions/upload-pages-artifact@v5
