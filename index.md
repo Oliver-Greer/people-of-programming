@@ -1,4 +1,4 @@
-# Declaration of People of Programming
+# Declaration by the People of Programming
 
 We are People of Programming---people who use, build, study, and support computer programs.
 We deal with computer programs for various reasons:
@@ -6,7 +6,7 @@ We deal with computer programs for various reasons:
 We believe computer programs are of great practical and aesthetic value to all.
 
 Recent developments in artificial intelligence (AI) have upended our world.
-Across all organizations spanning industry, government, academia, and other independent communities,
+Across all organizations spanning industry, government, academia, and independent communities,
  there is an unprecedented reallocation of resources towards the further advancement of AI,
  at the cost of nearly all other areas of computing:
  engineers struggle to convince managers to approve non-AI-related work,
