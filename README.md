@@ -33,4 +33,7 @@ Please note we are focusing on the parts of computing that are not AI;
 
 GitHub has many issues, but most programmers understand how to use it.
 At this early stage, we want to reduce the friction for people to join.
-We will consider setting up mirrors elsewhere and synchronizing them.
+
+We have also set up a [mirror](https://git.sr.ht/~remyw/people-of-programming)
+ at sourcehut where you can send patches without an account using
+ [git send-mail](https://git-send-email.io).
