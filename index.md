@@ -43,6 +43,6 @@ Most importantly, we will continue to support each other, as People of Programmi
 
 [Remy Wang](https://remy.wang) (professor, UCLA)\
 [Qiantan Hong](https://github.com/kchanqvq) (PhD, Stanford)\
-[Oliver Greer](https://github.com/Oliver-Greer) (Undergraduate, Berkeley)\
+[Oliver Greer](https://github.com/Oliver-Greer) (Undergraduate, UC Berkeley)
 
 <!-- PLEASE PUT `\` AT THE END OF YOUR SIGNATURE TO BREAK LINES -->
