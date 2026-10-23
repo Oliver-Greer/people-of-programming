@@ -38,5 +38,6 @@ We will continue to do so, even if the computer programs have nothing to do with
 Most importantly, we will continue to support each other, as People of Programming.
 
 [Remy Wang](https://remy.wang) (professor, UCLA)
+[Qiantan Hong](https://github.com/kchanqvq) (PhD, Stanford)
 
 [**Add your signature**](https://github.com/remysucre/people-of-programming)
